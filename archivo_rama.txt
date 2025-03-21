@@ -1,4 +1,5 @@
 hola
 Cambio hecho en la rama1
 conflicto en master
+Creando conflicto
 hola3
