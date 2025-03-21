@@ -1,4 +1,4 @@
 hola
 Cambio hecho en la rama1
-hola2
+conflicto en master
 hola3
